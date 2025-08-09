@@ -60,10 +60,6 @@ We welcome:
 - **Enterprises:** Explore custom solution development  
 - **Researchers:** Collaborate on communication protocols  
 
-**Get Started:**  
-- [Contribution Guidelines](https://github.com/SocketSphere/.github/blob/main/CONTRIBUTING.md)  
-- [Partner Inquiry Form](https://forms.example.com)  
-
 ---
 
 ## 📬 Contact Our Team
