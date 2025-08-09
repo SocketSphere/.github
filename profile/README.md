@@ -38,7 +38,7 @@ Embeddable communication components for:
 ## 🛠 Technology Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,webrtc,Javascript,tailwind,docker,aws" alt="Tech Stack" height="40">
+  <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,webrtc,javascript,tailwind,docker,aws" alt="Tech Stack" height="40">
 </div>
 
 ---
