@@ -1,6 +1,6 @@
 # SocketSphere -  Real-Time Communication Solutions 👋
 
-![SocketSphere Logo](https://res.cloudinary.com/djjgg2gmc/image/upload/v1744919934/samples/logo.png)
+![SocketSphere Logo](https://res.cloudinary.com/djjgg2gmc/image/upload/v1754735738/images_2_dhginu.jpg)
 
 **SocketSphere** is a technology organization specializing in scalable, secure real-time communication platforms. Leveraging the MERN stack and WebRTC, we deliver high-performance chat and collaboration tools designed for businesses and developers worldwide.
 
