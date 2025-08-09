@@ -1,6 +1,6 @@
 # Welcome to SocketSphere 👋
 
-![SocketSphere Logo](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.bbc.com%2Fnews%2Fscience-environment-38849147&psig=AOvVaw15LbtTfsSg5rvNCArEV7vm&ust=1754815304253000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCIiu8Myq_Y4DFQAAAAAdAAAAABAE)
+![SocketSphere Logo](https://imgur.com/a/WUIdj7E)
 
 We build scalable chat and collaboration platforms powered by the MERN stack and WebRTC. Our mission is to enable fast, secure, and seamless communication for users everywhere.
 
