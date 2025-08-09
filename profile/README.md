@@ -1,7 +1,7 @@
 # Welcome to SocketSphere 👋
 
 ![SocketSphere Logo](https://imgur.com/a/7QNZ1NE)
-
+<blockquote class="imgur-embed-pub" lang="en" data-id="7IfNIsg"><a href="https://imgur.com/7IfNIsg">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 We build scalable chat and collaboration platforms powered by the MERN stack and WebRTC. Our mission is to enable fast, secure, and seamless communication for users everywhere.
 
 ---
